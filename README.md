@@ -1,16 +1,10 @@
-# Juno-DKT (Deep Knowledge Tracing) pytorch implementation
-Scikit-learn style implementation of Deep Knowledge Tracing models based on pytorch.
+
 
 ## 설치 방법
 1. 운영체제와 GPU 사용 여부 등을 고려하여 `pytorch`를 설치한다.(https://pytorch.org/get-started/locally/) (Google Colab에서 사용시 생략 가능)
 2. 터미널 혹은 명령 프롬프트에서 `pip install juno-dkt`를 실행한다.
 3. `juno_dkt`를 import 하여 사용한다. *(pip 패키지 이름은 '-'로 연결되어 있으나, import 할때의 패키지 이름은 '_'로 연결되어 있음에 주의)*
 
-## ASSISTment2015 데이터 예제 (Google Colab)
-
-`example/ASSISTment2015.ipynb`파일과 동일함
-
-(https://colab.research.google.com/drive/1v-f7XKyfzyEwycpEa-z9kuMthRznw7zk?usp=sharing)
 
 ### Result
 
