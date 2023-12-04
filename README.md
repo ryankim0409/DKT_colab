@@ -92,8 +92,3 @@ _모델의 지식 공간의 그래프를 `networkx.DiGraph` 형식으로 반환�
 * `pair_threshold` _(float, Default:0)_ - 엣지가 생성되기 위해 문항의 {A, B} 순서쌍이 가져야 할 최소 빈도. 원본 논문에서는 Khan dataset에 대해 0.01을 사용함.
 * **return** `g` _(networkx.DiGraph)_ - 가중치가 부여된 유향 그래프 객체
 
-## Author Contact
-
-황준오 (wnsdh10@snu.ac.kr)
-
-서울대학교 물리교육과 데이터사이언스 연구실
